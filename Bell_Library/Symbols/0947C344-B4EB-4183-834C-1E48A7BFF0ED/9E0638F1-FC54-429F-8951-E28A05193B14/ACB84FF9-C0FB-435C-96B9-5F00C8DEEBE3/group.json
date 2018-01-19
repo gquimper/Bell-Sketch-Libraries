@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "ACB84FF9-C0FB-435C-96B9-5F00C8DEEBE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 239,
+    "width": 301,
+    "x": 30,
+    "y": 790
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B62F9626-80B2-4C4B-8ACF-5CB416C9249B"
+    },
+    {
+      "class": "text",
+      "id": "EE239806-2E14-453E-A055-088ADB1DC89D"
+    },
+    {
+      "class": "text",
+      "id": "E1B9C1CA-FAF7-487E-8D3C-C4BE2FE39346"
+    },
+    {
+      "class": "text",
+      "id": "492CC54F-D0BD-44F0-A611-517919664F32"
+    },
+    {
+      "class": "text",
+      "id": "26585F1A-CCA0-4BC9-9D00-0E89E2EA285B"
+    },
+    {
+      "class": "text",
+      "id": "9A19D770-EA5D-4EC9-90C8-AEBEC82FFD1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "681790CB-9CD2-46A5-8DF1-C575C427D06F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "687026C7-F8DB-4B62-B7CA-25187BFA352D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "125CD533-D114-4E06-92D3-CA288F941C66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB7F8EA3-BEE7-42AD-9A44-69AF1A2D4BE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6973F6E9-E137-47A2-BB8E-D24DA8BB4E1A"
+    }
+  ],
+  "name": "my travel features",
+  "nameIsFixed": true,
+  "originalObjectID": "ACB84FF9-C0FB-435C-96B9-5F00C8DEEBE3",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_e155ddee-1d31-4e3f-8dd0-ea751e6f5f0d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_b7b6202d-6d8d-493f-9477-f09f4e7d22cb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

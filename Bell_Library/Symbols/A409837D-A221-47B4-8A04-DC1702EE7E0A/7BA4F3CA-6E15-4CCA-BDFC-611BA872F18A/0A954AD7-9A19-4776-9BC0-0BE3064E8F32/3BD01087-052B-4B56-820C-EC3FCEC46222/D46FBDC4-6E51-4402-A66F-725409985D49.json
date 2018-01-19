@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAeHyAhIisyNj4/QEFCRkpSVlpdXmBVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEBVNYXJrZXRpbmcgcHJlZmVyZW5jZXPTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAWgBdfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZVdOU0NvbG9yVk5TS2VybtUjJCUKJicoKSopW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHQQBIAAI0A2AAAAAAAAgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjLjAxXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKMzQ1XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjc6PaI4OYAMgA2iOzyADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF5CZWxsU2xpbU1lZGl1bdIsLUNEXxATTlNNdXRhYmxlRGljdGlvbmFyeaNDRTFcTlNEaWN0aW9uYXJ50iwtR0hfEBBOU0ZvbnREZXNjcmlwdG9yokkxXxAQTlNGb250RGVzY3JpcHRvctRLTE0KTk9QUVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECowLjA2NjY2NjY2NjY3IDAuMDY2NjY2NjY2NjcgMC4wNjY2NjY2NjY2NwAQAYATgBXSUwpUVVROU0lEEAGAFNIsLVdYXE5TQ29sb3JTcGFjZaJZMVxOU0NvbG9yU3BhY2XSLC1bXFdOU0NvbG9yolsxI7/gAAAAAAAA0iwtRV+iRTHSLC1hYl8QEk5TQXR0cmlidXRlZFN0cmluZ6JjMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFmZ1Ryb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwCbAKIAqgC1ALoAvAC+AMAAwgDHAMkAywDNAM8A0QDkAQYBDgEVASABLAE3AUkBWwFdAV8BaAFqAW8BegGDAZ0BoQG0Ab0BwgHfAeEB4wHqAe0B7wHxAfQB9gH4AfoCEAImAi8CPgJDAlkCXQJqAm8CggKFApgCoQKnArQCyQL2AvgC+gL8AwEDBgMIAwoDDwMcAx8DLAMxAzkDPANFA0oDTQNSA2cDagN/A5EDlAOZAAAAAAAAAgEAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA5s="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D46FBDC4-6E51-4402-A66F-725409985D49",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 231,
+    "x": 16,
+    "y": 25.14754098360655
+  },
+  "glyphBounds": "{{2, 3}, {203, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Marketing preference",
+  "nameIsFixed": false,
+  "originalObjectID": "D46FBDC4-6E51-4402-A66F-725409985D49",
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DFF9AF10-5547-4A70-88D2-FD7CA2E07105"
+  },
+  "textBehaviour": 1
+}

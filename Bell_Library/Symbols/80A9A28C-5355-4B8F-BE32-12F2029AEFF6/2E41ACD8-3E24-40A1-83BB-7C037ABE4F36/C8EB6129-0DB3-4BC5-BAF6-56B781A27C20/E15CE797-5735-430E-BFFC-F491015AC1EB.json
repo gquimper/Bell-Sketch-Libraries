@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAeHyAhIisyNj4/QEFCRkpSVlpdXmBVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEBdIb21lIFBob25lIC0gOTA1MjgyMDczONMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBaAF18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlV05TQ29sb3JWTlNLZXJu1SMkJQomJygpKilbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBAEgAAjQDYAAAAAAACACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMuMDFfEBBOU1BhcmFncmFwaFN0eWxlWE5TT2JqZWN00gozNDVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKNzo9ojg5gAyADaI7PIAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAXkJlbGxTbGltTWVkaXVt0iwtQ0RfEBNOU011dGFibGVEaWN0aW9uYXJ5o0NFMVxOU0RpY3Rpb25hcnnSLC1HSF8QEE5TRm9udERlc2NyaXB0b3KiSTFfEBBOU0ZvbnREZXNjcmlwdG9y1EtMTQpOT1BRVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QKjAuMDY2NjY2NjY2NjcgMC4wNjY2NjY2NjY2NyAwLjA2NjY2NjY2NjY3ABABgBOAFdJTClRVVE5TSUQQAYAU0iwtV1hcTlNDb2xvclNwYWNlolkxXE5TQ29sb3JTcGFjZdIsLVtcV05TQ29sb3KiWzEjv+AAAAAAAADSLC1FX6JFMdIsLWFiXxASTlNBdHRyaWJ1dGVkU3RyaW5nomMxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WZnVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAJ0ApACsALcAvAC+AMAAwgDEAMkAywDNAM8A0QDTAOYBCAEQARcBIgEuATkBSwFdAV8BYQFqAWwBcQF8AYUBnwGjAbYBvwHEAeEB4wHlAewB7wHxAfMB9gH4AfoB/AISAigCMQJAAkUCWwJfAmwCcQKEAocCmgKjAqkCtgLLAvgC+gL8Av4DAwMIAwoDDAMRAx4DIQMuAzMDOwM+A0cDTANPA1QDaQNsA4EDkwOWA5sAAAAAAAACAQAAAAAAAABoAAAAAAAAAAAAAAAAAAADnQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E15CE797-5735-430E-BFFC-F491015AC1EB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 261.6909090909091,
+    "x": 16.30909090909093,
+    "y": 25.14754098360655
+  },
+  "glyphBounds": "{{2, 3}, {246, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Home Phone - 9052820",
+  "nameIsFixed": false,
+  "originalObjectID": "E15CE797-5735-430E-BFFC-F491015AC1EB",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DFF9AF10-5547-4A70-88D2-FD7CA2E07105"
+  },
+  "textBehaviour": 1
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNUBESFBRUlNUWFxeVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAPUFBEIFBheSBQZXIgVXNl0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjMzMzMzMzMzMzMgMC4zMzMzMzMzMzMzIDAuMzMzMzMzMzMzMwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHWNjc4OQo6Ozw9Pj89XxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBCNAMgAAAAAAAIAAgAzSLC1BQl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0FDMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkVGR18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpJTE+iSkuAD4AQok1OgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABXQXJpYWxNVNIsLVVWXxATTlNNdXRhYmxlRGljdGlvbmFyeaNVVzFcTlNEaWN0aW9uYXJ50iwtWVpfEBBOU0ZvbnREZXNjcmlwdG9yolsxXxAQTlNGb250RGVzY3JpcHRvctIsLVddolcx0iwtX2BfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYTFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZGVUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAkwCaAKIArQCxALMAtQC3ALsAvQC/AMEAwwDLAN4BAAEJAQ8BHAExAVsBXQFfAWEBZgFrAW0BbwF0AX8BiAGVAZgBpQGuAbMBuwG+AcsB4AHsAf4CCQIbAiQCJgIvAjECMwI4AlICVgJpAm4CiwKNAo8ClgKZApsCnQKgAqICpAKmArwC0gLbAuMC6AL+AwIDDwMUAycDKgM9A0IDRQNKA18DYgN3A4kDjAORAAAAAAAAAgEAAAAAAAAAZgAAAAAAAAAAAAAAAAAAA5M="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "88C8B9E0-DD3C-40E5-9B6B-A9CDF63F4BF3",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 241,
+    "x": 0,
+    "y": 33
+  },
+  "glyphBounds": "{{1, 3}, {110, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "PPD Pay Per Use",
+  "nameIsFixed": false,
+  "originalObjectID": "88C8B9E0-DD3C-40E5-9B6B-A9CDF63F4BF3",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "27D2BBA1-86AB-40CD-8324-60F6229D261D"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_ea053583-2366-4835-b126-d0645460bbe9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_30a564d4-4866-4c1b-b58f-09c73a527de4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

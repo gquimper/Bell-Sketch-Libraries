@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "046EF30F-0C6D-4103-B38D-7D7148C1DC26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 215,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "73604029-6685-404E-8213-445F24A48531"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB52A27C-D943-46E3-9B15-72990E8BC844"
+    },
+    {
+      "class": "text",
+      "id": "B3AAB7E3-290D-4832-8DE9-D7349387CA09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5AD61B2-FD57-4942-9441-11105ABA12F8"
+    },
+    {
+      "class": "text",
+      "id": "FCE9380A-51F9-4A2D-852C-0E474D468655"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A99AB94-E3E9-4190-BB26-2DAF7C212562"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22DE8B3B-EDCC-4FFC-B27E-5037AF7EC9C3"
+    }
+  ],
+  "name": "FORM / Bells terms of service",
+  "nameIsFixed": true,
+  "originalObjectID": "046EF30F-0C6D-4103-B38D-7D7148C1DC26",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

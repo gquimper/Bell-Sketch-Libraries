@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "681790CB-9CD2-46A5-8DF1-C575C427D06F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 223,
+    "x": 0.716666666666697,
+    "y": 156
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "LINKS / Icon right_leftAlign",
+  "nameIsFixed": false,
+  "originalObjectID": "681790CB-9CD2-46A5-8DF1-C575C427D06F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E5F4A3D-35F2-47D3-B21D-D8D4B1B94294_stringValue",
+      "value": "Look up travel zones"
+    }
+  ],
+  "overrides": {
+    "7E5F4A3D-35F2-47D3-B21D-D8D4B1B94294": "Look up travel zones"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "90D175CC-9437-40A0-8DD1-3D638FD8923C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "DC3D069B-6D2B-49B4-96DB-474348CB75CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 293,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "042B0A50-C3C8-4DCB-8CDF-2F8FFEA0AB61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B15CF996-A035-44D5-8CD5-0A35C1FEE04F"
+    },
+    {
+      "class": "group",
+      "id": "53DD5410-217D-4639-A9F8-D3D5119E3CD4"
+    },
+    {
+      "class": "group",
+      "id": "01851048-C9FD-404D-AA06-18924CF48942"
+    }
+  ],
+  "name": "Dock desktop Copy",
+  "nameIsFixed": true,
+  "originalObjectID": "DC3D069B-6D2B-49B4-96DB-474348CB75CE",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B2346572-D24D-45D3-A169-A0B9C8F999A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 300,
+    "x": 0,
+    "y": 246
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "LINKS / Icon right_leftAlign",
+  "nameIsFixed": false,
+  "originalObjectID": "DAFCFABC-EDD3-4627-8584-824531014C9B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9050708-B0BC-4ABC-91F1-BA29BFBD6173_stringValue",
+      "value": "See all related hints and tips articles"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E5F4A3D-35F2-47D3-B21D-D8D4B1B94294_stringValue",
+      "value": "See all related troubleshooting articles"
+    }
+  ],
+  "overrides": {
+    "7E5F4A3D-35F2-47D3-B21D-D8D4B1B94294": "See all related troubleshooting articles",
+    "E9050708-B0BC-4ABC-91F1-BA29BFBD6173": "See all related hints and tips articles"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EB8D649E-C47D-4084-BDEE-CEB0EAED9457",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

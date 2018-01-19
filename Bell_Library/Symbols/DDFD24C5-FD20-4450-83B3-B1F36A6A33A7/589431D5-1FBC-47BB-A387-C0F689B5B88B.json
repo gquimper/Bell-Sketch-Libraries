@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "589431D5-1FBC-47BB-A387-C0F689B5B88B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 204,
+    "x": 0,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input / Text (Error)",
+  "nameIsFixed": false,
+  "originalObjectID": "589431D5-1FBC-47BB-A387-C0F689B5B88B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90_stringValue",
+      "value": "Select"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B801EB63-B04A-4489-B2B6-8A2E03EDBF59_stringValue",
+      "value": "marcu"
+    }
+  ],
+  "overrides": {
+    "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90": "Select",
+    "B801EB63-B04A-4489-B2B6-8A2E03EDBF59": "marcu"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "88D90B0F-CCDF-4531-8A69-2BBD559DEEC3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "89309E1D-008B-4609-8AC6-E913AFB6A12F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2B8B3C9C-E11F-431A-88C2-50007F59A380"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6B0DDC9-1FA1-4A7F-847F-D93459A1D419"
+    }
+  ],
+  "name": "ICONS / Phone-call",
+  "nameIsFixed": true,
+  "originalObjectID": "89309E1D-008B-4609-8AC6-E913AFB6A12F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C4F072C6-3120-4ECA-869F-61F8384ED019",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 82,
+    "x": 658,
+    "y": 273
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Buttons / Secondary",
+  "nameIsFixed": false,
+  "originalObjectID": "C4F072C6-3120-4ECA-869F-61F8384ED019",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "03FD0F14-ED4E-43E0-AFF2-0BB60A794D5A_stringValue",
+      "value": "Change"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3F7AAAC3-3BC0-4459-BC81-E1A6132A45AA_stringValue",
+      "value": "Change"
+    }
+  ],
+  "overrides": {
+    "03FD0F14-ED4E-43E0-AFF2-0BB60A794D5A": "Change",
+    "3F7AAAC3-3BC0-4459-BC81-E1A6132A45AA": "Change"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E9A447A4-6DFF-469A-A941-AFA8A9D372DF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_9043f23e-6bff-4154-b8b1-344dcdf9308e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_b6490cb0-bac3-4ede-b6eb-a377b7e76f40",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "width": {
+            "constant": 82,
+            "enabled": 1,
+            "modelID": "constraint_16d2e360-3406-40d4-8ab8-87dbd0c02abf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

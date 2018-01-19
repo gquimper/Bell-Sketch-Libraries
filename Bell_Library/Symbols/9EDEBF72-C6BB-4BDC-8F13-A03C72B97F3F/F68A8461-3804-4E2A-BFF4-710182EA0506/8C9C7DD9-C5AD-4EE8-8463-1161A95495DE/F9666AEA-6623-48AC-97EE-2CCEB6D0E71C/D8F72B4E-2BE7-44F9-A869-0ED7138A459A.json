@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs2Oj5GR0hJSk5SVFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18QP1lvdSBjYW4gY2hhbmdlIHRoZSBwYXNzd29yZCB5b3UgdXNlIHRvIGNvbm5lY3QgdG8gdGhlIEludGVybmV0LtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgAuAE1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZU8QJzAuMjkwMjIxNjMxNSAwLjI5MDE3NTI4ODkgMC4yOTAyMzc0NTY2ABABgAjSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKCpYTlNPYmplY3TWLC0uLwowMTIzNDUzXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBCNAMgAAAAAAAIAAgArSJic3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo/QkWiQEGADYAOokNEgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABXQXJpYWxNVNImJ0tMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTSpcTlNEaWN0aW9uYXJ50iYnT1BfEBBOU0ZvbnREZXNjcmlwdG9yolEqXxAQTlNGb250RGVzY3JpcHRvctImJ01Tok0q0iYnVVZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVypfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWltUcm9vdIABAAgAEQAaACMALQAyADcATwBVAFwAZQBsAHkAewB9AH8AwQDIANAA2wDfAOEA4wDlAOkA6wDtAO8A8QD5AQwBLgE1ATsBSAFyAXQBdgF7AYYBjwGXAZoBowGwAcUB0QHjAe4CAAIJAgsCFAIWAhgCHQI3AjsCTgJTAnACcgJ0AnsCfgKAAoIChQKHAokCiwKhArcCwALIAs0C4wLnAvQC+QMMAw8DIgMnAyoDLwNEA0cDXANuA3EDdgAAAAAAAAIBAAAAAAAAAFwAAAAAAAAAAAAAAAAAAAN4"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D8F72B4E-2BE7-44F9-A869-0ED7138A459A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 200.2727272727273,
+    "x": 16.72727272727271,
+    "y": 37
+  },
+  "glyphBounds": "{{0, 3}, {187, 48}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "You can change the p",
+  "nameIsFixed": false,
+  "originalObjectID": "D8F72B4E-2BE7-44F9-A869-0ED7138A459A",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "793551F5-DADB-45FF-ADF5-76B9FF8B2771"
+  },
+  "textBehaviour": 1
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "do_objectID": "62F6AA69-60EA-43FD-8589-FA99C86450AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 198,
+    "width": 290,
+    "x": 0,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2ED94507-AF7B-4B19-8218-649FDD36C042"
+    },
+    {
+      "class": "group",
+      "id": "3E2C3808-AF8F-4497-98B9-E65758E82050"
+    },
+    {
+      "class": "group",
+      "id": "FFE0CE94-99F4-402E-8F6C-B20C2D8C96F9"
+    },
+    {
+      "class": "group",
+      "id": "A4522D84-4B71-415B-98A7-2FB77E16E5ED"
+    },
+    {
+      "class": "group",
+      "id": "D3F409FB-29A3-43BA-97A2-121E3DB6CD1D"
+    }
+  ],
+  "name": "LINK",
+  "nameIsFixed": true,
+  "originalObjectID": "62F6AA69-60EA-43FD-8589-FA99C86450AA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_44dea901-9b93-4453-ba46-8d41d2858215",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_4a6d9c92-ba3c-445e-8649-dd8c6c70c28f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_0edec9a6-2769-4102-8694-2155108994bb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        },
+        "isCollapsing": 1,
+        "spacing": 13,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

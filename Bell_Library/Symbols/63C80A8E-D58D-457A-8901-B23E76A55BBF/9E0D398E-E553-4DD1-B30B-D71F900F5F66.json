@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9E0D398E-E553-4DD1-B30B-D71F900F5F66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 36,
+    "x": 15,
+    "y": 12
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "ICONS / Big expand",
+  "nameIsFixed": false,
+  "originalObjectID": "8E31AAEC-4E0E-47DF-A0AC-05F335F73008",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "67FFDE28-733F-4085-9490-A0F0812F625E_symbolID",
+      "value": "2969898E-71E5-42B8-8AE5-22A3431D5AD8"
+    }
+  ],
+  "overrides": {
+    "67FFDE28-733F-4085-9490-A0F0812F625E": {
+      "symbolID": "2969898E-71E5-42B8-8AE5-22A3431D5AD8"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DD2931DA-7B05-4A03-B062-CA2733C84786",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_1f956053-8011-46ef-81a9-35d0e142b6fb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_6bb0671c-caa5-4419-9c8d-e8bf5c459cb1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

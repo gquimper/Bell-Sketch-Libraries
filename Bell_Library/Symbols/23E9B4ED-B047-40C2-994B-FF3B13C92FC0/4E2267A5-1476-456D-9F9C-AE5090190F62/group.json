@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "4E2267A5-1476-456D-9F9C-AE5090190F62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 109,
+    "x": 0,
+    "y": -4.349051339285552
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "09D93DF8-899B-4F1E-93CF-6B54DF27C2DD"
+    },
+    {
+      "class": "text",
+      "id": "F9CE7133-93BC-41A6-A789-6A11D1ED29FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BA955EF-4C74-4D7E-B089-94093F2E1DA9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "179A99F8-74A5-4AAD-9C32-676E597C12F3"
+    }
+  ],
+  "name": "OTHER / Price Strikethrough",
+  "nameIsFixed": true,
+  "originalObjectID": "0B7E1676-4B27-499D-9D44-23C79064EE8D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
