@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "402D5E64-43E5-4272-B819-CB0A0924E2B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 7,
+    "x": 0,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "ICONS / Big Back Arrow",
+  "nameIsFixed": true,
+  "originalObjectID": "402D5E64-43E5-4272-B819-CB0A0924E2B3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E64E260-6823-4987-8D5E-374FC1BCF471_symbolID",
+      "value": "2969898E-71E5-42B8-8AE5-22A3431D5AD8"
+    }
+  ],
+  "overrides": {
+    "6E64E260-6823-4987-8D5E-374FC1BCF471": {
+      "symbolID": "2969898E-71E5-42B8-8AE5-22A3431D5AD8"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A06233B2-1EAA-4D35-AF65-B6A1A91F9E7F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

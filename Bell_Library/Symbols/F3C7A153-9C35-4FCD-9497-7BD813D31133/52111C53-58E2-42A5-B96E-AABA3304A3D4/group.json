@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "52111C53-58E2-42A5-B96E-AABA3304A3D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 244,
+    "width": 290,
+    "x": 15,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "03D82606-A1C7-42C9-B861-F275A9483F52"
+    },
+    {
+      "class": "text",
+      "id": "3767F4E3-09D2-462C-97A7-59D5FFAC2718"
+    },
+    {
+      "class": "group",
+      "id": "CF4608C3-6090-45D7-919C-D88B2D473F67"
+    },
+    {
+      "class": "bitmap",
+      "id": "30F97D65-A6B5-4D1B-8054-BF2C99D2B5E1"
+    }
+  ],
+  "name": "FOOTER / SIMPLIFIED MOBILE",
+  "nameIsFixed": true,
+  "originalObjectID": "52111C53-58E2-42A5-B96E-AABA3304A3D4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

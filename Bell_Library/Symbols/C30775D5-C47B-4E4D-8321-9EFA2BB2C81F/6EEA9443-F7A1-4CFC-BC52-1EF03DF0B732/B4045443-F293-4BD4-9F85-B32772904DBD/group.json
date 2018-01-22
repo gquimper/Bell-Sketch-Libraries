@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "B4045443-F293-4BD4-9F85-B32772904DBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 33,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8FD390AD-93CC-4164-8046-A05208E5C8F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92AD1024-9579-4945-9341-3DB6DAC5226C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "889AF092-6760-4091-9764-D863BA4D0C12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1959CE3C-05BE-4E2A-8AA6-4EBEF4E07B53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4869802-B0E4-46EA-B778-770A0A9DBA9A"
+    }
+  ],
+  "name": "Visa",
+  "nameIsFixed": true,
+  "originalObjectID": "B4045443-F293-4BD4-9F85-B32772904DBD",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 33,
+            "enabled": 1,
+            "modelID": "constraint_41c73d28-96d7-4bbd-ab76-580fa883ecae",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 48
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1c642935-d1dd-49df-9233-e5c765deabab",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

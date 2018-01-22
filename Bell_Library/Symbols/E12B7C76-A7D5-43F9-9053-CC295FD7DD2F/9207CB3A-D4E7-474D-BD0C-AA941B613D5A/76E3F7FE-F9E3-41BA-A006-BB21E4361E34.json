@@ -1,0 +1,70 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT5CRk5PUFFSVlpcVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADWGlQaG9uZSA40xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECowLjA2NjY2NjY2NjY3IDAuMDY2NjY2NjY2NjcgMC4wNjY2NjY2NjY2NwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHVNjc4Cjk6Ozw9PFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EASAACNANgAAAAAAAIAM0iwtP0BfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM/QTFfEBBOU1BhcmFncmFwaFN0eWxl0gpDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKR0pNokhJgA+AEKJLTIARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXEFyaWFsLUJvbGRNVNIsLVNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTVTFcTlNEaWN0aW9uYXJ50iwtV1hfEBBOU0ZvbnREZXNjcmlwdG9yolkxXxAQTlNGb250RGVzY3JpcHRvctIsLVVbolUx0iwtXV5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXzFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYmNUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAigCRAJkApACoAKoArACuALIAtAC2ALgAugDCANUA9wEAAQYBEwEoAVUBVwFZAVsBYAFlAWcBaQFuAXkBggGPAZIBnwGoAa0BtQG4AcMBzwHaAewB/gIAAgICCwINAhICLAIwAkMCSAJlAmcCaQJwAnMCdQJ3AnoCfAJ+AoAClgKsArUCwgLHAt0C4QLuAvMDBgMJAxwDIQMkAykDPgNBA1YDaANrA3AAAAAAAAACAQAAAAAAAABkAAAAAAAAAAAAAAAAAAADcg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "76E3F7FE-F9E3-41BA-A006-BB21E4361E34",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 76,
+    "x": 136,
+    "y": 78
+  },
+  "glyphBounds": "{{1, 5}, {74, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "iPhone 8",
+  "nameIsFixed": false,
+  "originalObjectID": "76E3F7FE-F9E3-41BA-A006-BB21E4361E34",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A1C86C9E-8F01-48F9-825D-3C2AF0A1D0C1"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 136,
+            "enabled": 1,
+            "modelID": "constraint_d9488228-364d-4b47-802c-1c9cce2ff64e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_d49aad28-ea06-42a9-91aa-8dfaf708098b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

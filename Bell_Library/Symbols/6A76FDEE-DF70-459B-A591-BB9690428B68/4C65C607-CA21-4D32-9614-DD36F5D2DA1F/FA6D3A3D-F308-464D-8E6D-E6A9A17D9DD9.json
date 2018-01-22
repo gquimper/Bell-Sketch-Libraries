@@ -1,0 +1,78 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNUBESFBRUlNUWFxeVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxEBT0xvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQuIEFlbmVhbiBldWlzbW9kIGJpYmVuZHVtIGxhb3JlZXQuIFByb2luIGdyYXZpZGEgZG9sb3Igc2l0IGFtZXQgbGFjdXMgYWNjdW1zYW4gZXQgdml2ZXJyYSBqdXN0byBjb21tb2RvIHZpdmVycmEganVzdG8uIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBqdXN0byBsb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LiBBZW5lYW4gZXVpc21vZCBiaWJlbmR1bSBsYW9yZWV0LiBQcm9pbiBncmF2aWRhIGRvbG9yIHNpdCBhbWV0IGxhY3VzIGFjY3Vtc2Fu0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjMzMzMzMzMzMzMgMC4zMzMzMzMzMzMzIDAuMzMzMzMzMzMzMwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHWNjc4OQo6Ozw9Pj89XxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBCNAMgAAAAAAAIAAgAzSLC1BQl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0FDMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkVGR18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpJTE+iSkuAD4AQok1OgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABXQXJpYWxNVNIsLVVWXxATTlNNdXRhYmxlRGljdGlvbmFyeaNVVzFcTlNEaWN0aW9uYXJ50iwtWVpfEBBOU0ZvbnREZXNjcmlwdG9yolsxXxAQTlNGb250RGVzY3JpcHRvctIsLVddolcx0iwtX2BfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYTFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZGVUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEB1AHbAeMB7gHyAfQB9gH4AfwB/gIAAgICBAIMAh8CQQJKAlACXQJyApwCngKgAqICpwKsAq4CsAK1AsACyQLWAtkC5gLvAvQC/AL/AwwDIQMtAz8DSgNcA2UDZwNwA3IDdAN5A5MDlwOqA68DzAPOA9AD1wPaA9wD3gPhA+MD5QPnA/0EEwQcBCQEKQQ/BEMEUARVBGgEawR+BIMEhgSLBKAEowS4BMoEzQTSAAAAAAAAAgEAAAAAAAAAZgAAAAAAAAAAAAAAAAAABNQ="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FA6D3A3D-F308-464D-8E6D-E6A9A17D9DD9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 900,
+    "x": 30,
+    "y": 84
+  },
+  "glyphBounds": "{{0, 3}, {860, 50}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "originalObjectID": "FA6D3A3D-F308-464D-8E6D-E6A9A17D9DD9",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9641B332-ECC3-42CC-BD1A-44FB00F481B7"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_06752a36-0ab7-4129-988c-c2130cdfad1e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_60c6cb78-8d99-497f-8cfe-b3ee281f663a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_d3c86b64-8e5c-4c61-b6fd-09a852524e5d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

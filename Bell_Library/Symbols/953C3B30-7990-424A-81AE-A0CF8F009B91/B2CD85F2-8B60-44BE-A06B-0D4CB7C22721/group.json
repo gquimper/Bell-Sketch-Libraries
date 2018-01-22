@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B2CD85F2-8B60-44BE-A06B-0D4CB7C22721",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DE90E3C3-535E-4F92-AE5F-60F7F70074BB"
+    },
+    {
+      "class": "group",
+      "id": "EEC05B02-9F81-4B6C-9D1D-090F6C884A4B"
+    }
+  ],
+  "name": "Travel",
+  "nameIsFixed": true,
+  "originalObjectID": "B2CD85F2-8B60-44BE-A06B-0D4CB7C22721",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

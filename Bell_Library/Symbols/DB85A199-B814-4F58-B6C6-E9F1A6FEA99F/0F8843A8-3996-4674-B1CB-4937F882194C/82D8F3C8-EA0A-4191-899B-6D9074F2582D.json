@@ -1,0 +1,86 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAeHyAhIiMnLzAxMjM6PkdLU1dbXmBVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEBVPbmUgQmlsbCAtIDg0NTU3MDA2MDfTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYATgBdWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvciO/4AAAAAAAANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF5CZWxsU2xpbU1lZGl1bdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1T9AQQpCQ0RFRkVbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBAEgAAjQDYAAAAAAACAEtI0NUhJXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjSEo5XxAQTlNQYXJhZ3JhcGhTdHlsZdRMTU4KT1BRUlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECowLjA2NjY2NjY2NjY3IDAuMDY2NjY2NjY2NjcgMC4wNjY2NjY2NjY2NwAQAYAUgBbSVApVVlROU0lEEAGAFdI0NVhZXE5TQ29sb3JTcGFjZaJaOVxOU0NvbG9yU3BhY2XSNDVcXVdOU0NvbG9yolw50jQ1OF+iODnSNDVhYl8QEk5TQXR0cmlidXRlZFN0cmluZ6JjOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFmZ1Ryb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwCbAKIAqgC1ALoAvAC+AMAAwgDHAMkAywDNAM8A0QDYAPoBDQEVAR4BIwFAAUIBRAFLAU4BUAFSAVUBVwFZAVsBcQGHAZABnwGkAa8BuAHOAdIB3wHoAe0CAAIDAhYCIQItAjgCSgJcAl4CYAJpAmsCcAKKAo4CoQKqArACvQLSAv8DAQMDAwUDCgMPAxEDEwMYAyUDKAM1AzoDQgNFA0oDTQNSA2cDagN/A5EDlAOZAAAAAAAAAgEAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA5s="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "82D8F3C8-EA0A-4191-899B-6D9074F2582D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 522,
+    "x": 30,
+    "y": 25
+  },
+  "glyphBounds": "{{1, 3}, {201, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "One Bill - 845570060",
+  "nameIsFixed": false,
+  "originalObjectID": "82D8F3C8-EA0A-4191-899B-6D9074F2582D",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DFF9AF10-5547-4A70-88D2-FD7CA2E07105"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_71583b06-53fd-4663-8cc8-b4c54bd4d7a8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_15bc6060-41ab-4c31-83ab-a08389c5f155",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 25,
+            "enabled": 1,
+            "modelID": "constraint_0c941be3-80ee-4ecb-aacc-ba8e6ad3693c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "width": {
+            "constant": 522,
+            "enabled": 1,
+            "modelID": "constraint_11cefc57-99bf-436c-95bf-3ae013857c0f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "013CDA8E-5831-495D-ABDE-B96EF2B9E838",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63EB58C4-0B14-44E4-93D0-E25520E59C8A"
+    },
+    {
+      "class": "group",
+      "id": "439F38AA-9FE5-4CEB-B6E4-AD9DDE243CA5"
+    }
+  ],
+  "name": "Music",
+  "nameIsFixed": true,
+  "originalObjectID": "013CDA8E-5831-495D-ABDE-B96EF2B9E838",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

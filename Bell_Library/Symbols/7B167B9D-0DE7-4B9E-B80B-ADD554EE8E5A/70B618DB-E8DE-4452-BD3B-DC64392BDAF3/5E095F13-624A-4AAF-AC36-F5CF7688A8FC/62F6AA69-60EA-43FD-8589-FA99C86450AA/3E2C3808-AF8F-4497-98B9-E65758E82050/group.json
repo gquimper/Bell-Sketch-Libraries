@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "3E2C3808-AF8F-4497-98B9-E65758E82050",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 290,
+    "x": 0,
+    "y": 107
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4CE6970D-A9A3-4262-A5ED-5CFDBB286815"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6C1B332-C6E4-45BF-9291-56906E4AF5F3"
+    }
+  ],
+  "name": "Stacked Group 4 Copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "3E2C3808-AF8F-4497-98B9-E65758E82050",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

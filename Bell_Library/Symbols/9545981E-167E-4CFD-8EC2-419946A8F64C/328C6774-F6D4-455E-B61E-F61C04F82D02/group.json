@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "328C6774-F6D4-455E-B61E-F61C04F82D02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "296B81E9-D5C4-4FE0-BAEB-C217F01873D3"
+    },
+    {
+      "class": "group",
+      "id": "D2A48F4D-F0C1-4909-896D-AC88418B2094"
+    }
+  ],
+  "name": "Bills",
+  "nameIsFixed": true,
+  "originalObjectID": "328C6774-F6D4-455E-B61E-F61C04F82D02",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
