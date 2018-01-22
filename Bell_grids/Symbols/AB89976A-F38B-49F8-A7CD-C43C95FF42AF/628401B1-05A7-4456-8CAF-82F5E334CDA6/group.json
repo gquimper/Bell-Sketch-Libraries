@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "628401B1-05A7-4456-8CAF-82F5E334CDA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 45,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "52309923-8766-4CDA-B618-9DFFC1D521D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "473CD8B5-E4D4-4384-B448-271C77F36A22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9DBB74B-1F88-4A23-971B-B2DA42BC6052"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85D69820-E708-41CC-AD5A-F4D26FB948EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC287654-FFB4-4099-9EAB-3930F350F06C"
+    }
+  ],
+  "name": "ICONS / internet",
+  "nameIsFixed": false,
+  "originalObjectID": "628401B1-05A7-4456-8CAF-82F5E334CDA6",
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

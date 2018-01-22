@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "A3E71185-6F92-47EB-A2E3-BC0AFED39336",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 416,
+    "width": 323,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "617887F2-6DE2-4065-8D58-82EE92510A5F"
+    },
+    {
+      "class": "group",
+      "id": "2F534404-A22D-4D53-91E2-04DA3DAC47C6"
+    },
+    {
+      "class": "group",
+      "id": "EF20EBE7-923A-4BBD-B20E-162A05877D41"
+    }
+  ],
+  "name": "INFO BOX / MOBILE Info Box TV",
+  "nameIsFixed": true,
+  "originalObjectID": "A3E71185-6F92-47EB-A2E3-BC0AFED39336",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

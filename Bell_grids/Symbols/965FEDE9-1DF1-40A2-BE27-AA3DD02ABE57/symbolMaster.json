@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 570,
+  "do_objectID": "965FEDE9-1DF1-40A2-BE27-AA3DD02ABE57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 323,
+    "width": 770,
+    "x": 14987,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A41C4A0-D94C-4294-98C3-3A2B82C9D312"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CC56954-B271-4433-A332-5A33B892E083"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11B05EC3-AE63-4B5C-8239-0F2A30F21192"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F4EABDB-F233-4130-8CE9-ACA6A692BF20"
+    },
+    {
+      "class": "text",
+      "id": "1BBC7D40-D2BC-43E5-8510-3EF96B7BBE34"
+    },
+    {
+      "class": "text",
+      "id": "82DB2AB4-E4A1-4321-86FC-480F5D14F3E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF349D11-1991-4F11-91C1-DC614A631203"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "828C48EE-5F3E-41F0-8693-87F9947A6B2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9943D886-B6BD-48E1-B6A8-C3F4A4D8D887"
+    },
+    {
+      "class": "text",
+      "id": "37B64ED7-7BA2-481E-9236-9AB7550A240C"
+    },
+    {
+      "class": "text",
+      "id": "6F35F99C-BD15-4E3F-A7CB-FE00F473847A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C63B58B-E4C2-426C-868D-3E4D24F2D72E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F7E4061-0FD0-4142-BACB-039614AB7F89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10883D9C-3CCE-4417-B28D-379ACD6031FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6881325F-4407-4428-93A8-1E8FB927F6B7"
+    },
+    {
+      "class": "text",
+      "id": "C1301225-7088-4647-913F-878CE2F1A6AC"
+    },
+    {
+      "class": "text",
+      "id": "7A8CF3B2-2986-43CF-B879-ED85B556F78D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AC0DFA2-5D01-4814-AD32-615A83E99D7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF47E790-F8BB-40F5-806E-1AF6D5BBAF09"
+    },
+    {
+      "class": "text",
+      "id": "94F3C772-D951-435B-A4F5-D88B69FB4339"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43098A6F-7FD8-4397-8C05-3786647C098C"
+    }
+  ],
+  "name": "INFO BOX / Info Box Home phone",
+  "nameIsFixed": false,
+  "originalObjectID": "965FEDE9-1DF1-40A2-BE27-AA3DD02ABE57",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "05B4737C-5866-47CA-A41E-3FF15460074C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

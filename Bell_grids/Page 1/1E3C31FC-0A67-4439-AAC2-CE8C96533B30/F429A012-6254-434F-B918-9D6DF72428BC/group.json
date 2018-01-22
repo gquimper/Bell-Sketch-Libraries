@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "F429A012-6254-434F-B918-9D6DF72428BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2328,
+    "width": 291,
+    "x": 15,
+    "y": -33
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2FF9772C-9B99-42FF-A03E-F8FA559E6CA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E8A9CA7-4229-4F6A-86AB-CAD1AF67D866"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5CA45C5-CDA3-4329-8FFA-13DC0D21E8E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E7A763D-7A01-4968-8443-82B8DED532EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42DD9076-6D48-4A03-AF2A-B0D0E234F2E2"
+    }
+  ],
+  "name": "GRID_mobile",
+  "nameIsFixed": true,
+  "originalObjectID": "DA80A14B-4186-4F6C-A318-1BF1956CFD4B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.8042346014492754
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

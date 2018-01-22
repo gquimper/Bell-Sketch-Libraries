@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BC0B7FBF-60BF-456E-9F5D-F8BD4BEB6CE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 76,
+    "x": 664,
+    "y": 347
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Buttons / Secondary",
+  "nameIsFixed": false,
+  "originalObjectID": "BC0B7FBF-60BF-456E-9F5D-F8BD4BEB6CE3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "363B47BA-FE7C-4B03-8594-E8DC5B1C3CE7_stringValue",
+      "value": "Change"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "08DADC27-8B5D-4E7F-A75C-B10D0C367EA8_stringValue",
+      "value": "Change"
+    }
+  ],
+  "overrides": {
+    "08DADC27-8B5D-4E7F-A75C-B10D0C367EA8": "Change",
+    "363B47BA-FE7C-4B03-8594-E8DC5B1C3CE7": "Change"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4FEEACE2-4E91-452A-A61B-1D40F8D3314C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_fb0332f8-3fb8-493f-a967-ab3bd0127eee",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_34b923ba-a0c0-49ca-b274-eccfd0624500",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_d2212690-d0e6-4bf9-a28d-26cfc89d6630",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "width": {
+            "constant": 76,
+            "enabled": 1,
+            "modelID": "constraint_cb395b9c-3d5b-4c40-827d-61e7e2aa367e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

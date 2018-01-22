@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "20236547-CBFB-4DA3-A130-E4C84A949EE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 157,
+    "width": 233,
+    "x": 0,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8831C725-FC67-40F8-ACF8-8F8C55EB9DBE"
+    },
+    {
+      "class": "group",
+      "id": "C96E5C13-00C4-4369-B36E-5F3EB700E46A"
+    },
+    {
+      "class": "group",
+      "id": "E22614BF-D1CC-4559-B7C9-2D3881CF59F6"
+    },
+    {
+      "class": "group",
+      "id": "4E29D43B-AB31-45C2-9743-8F9769D4C58C"
+    }
+  ],
+  "name": "tabs medium blue",
+  "nameIsFixed": true,
+  "originalObjectID": "B90EE78A-6F22-4FB3-843F-95A6689B2DC1",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

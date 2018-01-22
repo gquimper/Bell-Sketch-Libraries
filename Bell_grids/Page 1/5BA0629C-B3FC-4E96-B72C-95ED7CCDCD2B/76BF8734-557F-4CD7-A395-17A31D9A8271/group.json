@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "76BF8734-557F-4CD7-A395-17A31D9A8271",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 1472,
+    "x": -64,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D3E3B17-09B7-4349-A491-D8CB413ED0C3"
+    },
+    {
+      "class": "group",
+      "id": "3B432056-944A-4867-988D-55363991EFF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "164397CF-777C-4094-90DD-C3626D5D49C2"
+    },
+    {
+      "class": "group",
+      "id": "29243327-485A-45B5-86D9-133C9F0C26BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F391B0B-6318-4C0A-9837-B51940F98B61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CF10DE0-8E35-4671-8857-8C108998C876"
+    },
+    {
+      "class": "group",
+      "id": "118CC665-F275-4A39-8D23-F83C3952579F"
+    },
+    {
+      "class": "group",
+      "id": "B3FCF464-C7C5-4987-A688-936CC3E5AFF0"
+    }
+  ],
+  "name": "Navigation / Desktop / Mybell / My profile no-sublevel",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

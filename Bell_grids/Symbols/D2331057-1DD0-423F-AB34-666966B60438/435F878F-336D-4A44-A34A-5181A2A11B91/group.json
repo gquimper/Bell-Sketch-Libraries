@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "435F878F-336D-4A44-A34A-5181A2A11B91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 343,
+    "width": 770,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AFA6B0E0-646F-4361-85E3-9A0DE1F42426"
+    },
+    {
+      "class": "group",
+      "id": "F8674BDC-83EB-477C-913D-93BC3934D3E9"
+    },
+    {
+      "class": "group",
+      "id": "CD1F5C2B-B5D4-48D6-AAD3-23E23A9C044A"
+    }
+  ],
+  "name": "Info Box mobility",
+  "nameIsFixed": true,
+  "originalObjectID": "435F878F-336D-4A44-A34A-5181A2A11B91",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "E63EEA8C-1215-4CD7-A11F-09A3CA4A13CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 233,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CBC3FB7-2157-4F7B-B463-18E6F24E2F11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A426053E-984C-4565-A5A5-4090628E9238"
+    },
+    {
+      "class": "text",
+      "id": "B9E42184-0628-4F20-9D59-8C889A80443A"
+    }
+  ],
+  "name": "bell blue tab",
+  "nameIsFixed": true,
+  "originalObjectID": "94C37874-714F-41D7-B233-D29A4F8D6FD0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

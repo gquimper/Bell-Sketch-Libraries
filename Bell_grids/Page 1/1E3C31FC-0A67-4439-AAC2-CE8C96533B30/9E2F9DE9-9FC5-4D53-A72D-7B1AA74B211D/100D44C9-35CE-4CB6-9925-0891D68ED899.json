@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "100D44C9-35CE-4CB6-9925-0891D68ED899",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 290,
+    "x": 15,
+    "y": 30
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Buttons / Mobile Tablet secondary",
+  "nameIsFixed": false,
+  "originalObjectID": "9833D6A9-13CD-4F54-B579-0ABF7069B133",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7AF09564-DF00-4CC6-8ACE-155CB5F0D7B8_stringValue",
+      "value": "Chat Live"
+    }
+  ],
+  "overrides": {
+    "7AF09564-DF00-4CC6-8ACE-155CB5F0D7B8": "Chat Live"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7D62B0D7-BECB-48DD-8B44-D7BEBF3C2C42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

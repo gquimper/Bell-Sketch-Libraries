@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "EA74ED6A-22BE-435C-BC20-4FD343DF349F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1180,
+    "width": 770,
+    "x": 30.1844262295082,
+    "y": 577
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "16BFD47B-26AA-419B-AE20-23F260E8E075"
+    },
+    {
+      "class": "text",
+      "id": "45E9D1ED-5DBB-4B28-A166-831F9C9875C6"
+    },
+    {
+      "class": "text",
+      "id": "8CFFDEEE-DF5B-4241-A313-DE83CC2A1CAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58A31576-B2D6-4E49-A685-09EBFE9298C1"
+    }
+  ],
+  "name": "Info Box BRS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "4D2652F0-B7BC-45E4-B8EA-F6A001BD3EF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 766,
+    "width": 233,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E1E92EFB-12B8-433B-A79B-376C6CEB6B24"
+    },
+    {
+      "class": "group",
+      "id": "57B33CD4-B1C3-4CD4-A004-6EF63265CEF3"
+    },
+    {
+      "class": "group",
+      "id": "E51C2C6A-9D1B-4E0B-80FC-7FCFF39573BF"
+    }
+  ],
+  "name": "sideNav Desktop",
+  "nameIsFixed": true,
+  "originalObjectID": "B341001C-B88B-4A76-9075-32FB35F1C687",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

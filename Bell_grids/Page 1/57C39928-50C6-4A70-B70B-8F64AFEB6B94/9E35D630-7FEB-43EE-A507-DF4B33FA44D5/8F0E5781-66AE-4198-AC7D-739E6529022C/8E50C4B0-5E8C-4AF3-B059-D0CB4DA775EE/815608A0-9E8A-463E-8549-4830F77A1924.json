@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "815608A0-9E8A-463E-8549-4830F77A1924",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 343,
+    "width": 668,
+    "x": 2,
+    "y": 68
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "INFO BOX / DESKTOP Info Box MOBILITY",
+  "nameIsFixed": true,
+  "originalObjectID": "11F19D28-9A1C-473B-A074-7D94B2257B03",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "03E9E92D-BE23-4809-922C-783F277CDB1E_symbolID",
+      "value": "4FEEACE2-4E91-452A-A61B-1D40F8D3314C"
+    }
+  ],
+  "overrides": {
+    "03E9E92D-BE23-4809-922C-783F277CDB1E": {
+      "symbolID": "4FEEACE2-4E91-452A-A61B-1D40F8D3314C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "584D920E-F5F2-44D9-9E38-E99EE0950C0D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

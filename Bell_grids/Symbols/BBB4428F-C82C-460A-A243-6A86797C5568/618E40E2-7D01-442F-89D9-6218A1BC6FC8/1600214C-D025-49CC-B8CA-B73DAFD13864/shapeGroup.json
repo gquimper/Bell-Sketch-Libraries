@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "1600214C-D025-49CC-B8CA-B73DAFD13864",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25.012596,
+    "width": 43.005768,
+    "x": 15.495,
+    "y": 15.49564800000007
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "37A16512-9041-4760-8C90-56DE513567A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "D94FF4ED-6C6F-4366-BB17-7AC225ED6A7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B3118AFE-DB56-4660-9A98-2AE6028DAB6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A44796D-B0C3-49A9-A2A5-404F3B8AF848"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4C96CA4-A37A-490D-863A-EC2E63018091"
+    }
+  ],
+  "name": "Combined shape 16079",
+  "nameIsFixed": false,
+  "originalObjectID": "1600214C-D025-49CC-B8CA-B73DAFD13864",
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "2CBC3BFA-386D-493F-B005-33607EF75327",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 766,
+    "width": 231,
+    "x": 22,
+    "y": 83
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8167AB70-1336-4864-8B63-D9C2E3897971"
+    },
+    {
+      "class": "group",
+      "id": "41C6F795-79DF-47D3-8F0C-4D50759B17BC"
+    }
+  ],
+  "name": "Navigation / Side Nav desktop",
+  "nameIsFixed": false,
+  "originalObjectID": "9DAF8F7B-35E3-4D75-AA84-57223EE9BA8B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
