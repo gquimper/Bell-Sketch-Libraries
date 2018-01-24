@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 744,
+  "changeIdentifier": 746,
   "do_objectID": "9948761E-F30E-41E0-A44C-58BE2CF2032A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -106,6 +106,9 @@
     },
     "com.invisionlabs.library": {
       "version": 2
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
